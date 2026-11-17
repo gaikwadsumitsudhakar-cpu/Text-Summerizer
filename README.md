@@ -22,7 +22,7 @@ The model is fine-tuned on the **SAMSum Dialogue Summarization Dataset** and int
 ## 🖥️ Application Preview
 
 <div align="center">
-
+      
 ![AI Text Summarizer](images/homepage.png)
 
 </div>
