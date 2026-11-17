@@ -32,7 +32,7 @@ Users can paste lengthy conversations and generate concise summaries through a c
 ## ✨ Features
 
 - Fine-tuned T5-Small Transformer model
-- Dialogue summarization using SAMSum dataset
+- Dialogue summarization using Samsum dataset
 - Text preprocessing using Regex
 - T5 Tokenizer for text tokenization
 - Beam Search decoding
