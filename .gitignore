@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+saved_summary_model/*.safetensors
+saved_summary_model/pytorch_model.bin
+saved_summary_model/checkpoint-*/
+*.log
+logs.txt
